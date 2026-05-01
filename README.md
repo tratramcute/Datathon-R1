@@ -22,11 +22,7 @@ Datathon-R1/
 
 ## 📊 Dashboard Preview
 
-> **Tool:** Power BI  
-> **File:** `2. Tomorrow Business Analyst_EDA.pbix`
-## 📊 Dashboard Preview
-
-> **Tool:** Power BI | **File:** `2. Tomorrow Business Analyst_EDA.pbix`
+> **Tool:** Power BI | **File:** `2. Tomorrow Business Analyst_Dashboard in Powerbi.pbix`
 
 | Dashboard | Preview |
 |---|---|
