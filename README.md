@@ -24,14 +24,22 @@ Datathon-R1/
 
 > **Tool:** Power BI  
 > **File:** `2. Tomorrow Business Analyst_EDA.pbix`
+## 📊 Dashboard Preview
 
-| Marketing Analysis | Customer Segmentation |
-|---|---|
-| ![Marketing](assets/dashboard_marketing.png) | ![RFM](assets/dashboard_rfm.png) |
+> **Tool:** Power BI | **File:** `2. Tomorrow Business Analyst_EDA.pbix`
 
-| Website Traffic | Top Contributor |
+| Dashboard | Preview |
 |---|---|
-| ![Traffic](assets/dashboard_traffic.png) | ![Top](assets/dashboard_top.png) |
+| 1. Báo cáo lãi lỗ | ![](assets/1.%20Báo%20cáo%20lãi%20lỗ.png) |
+| 2. Phân tích doanh thu | ![](assets/2.%20Phân%20tích%20doanh%20thu.png) |
+| 3. Phân tích chi phí | ![](assets/3.%20Phân%20tích%20chi%20phí.png) |
+| 3. Phân tích Sales data | ![](assets/3.%20Phân%20tích%20Sales%20data.png) |
+| 4. Phân tích Promo data | ![](assets/4.%20Phân%20tích%20Promo%20data.png) |
+| 5. Phân tích website | ![](assets/5.%20Phân%20tích%20website.png) |
+| 6. Phân tích Customer data | ![](assets/6.%20Phân%20tích%20Customer%20data.png) |
+| 7. Phân tích Customer data 2 | ![](assets/7.%20Phân%20tích%20Customer%20data%202.png) |
+| 8. Phân khúc khách hàng | ![](assets/8.%20Phân%20khúc%20khách%20hàng.png) |
+| 9. Tình hình kho vận | ![](assets/9.%20Tình%20hình%20kho%20vận.png) |
 
 > 💡 *Để xem dashboard tương tác, tải file `.pbix` và mở bằng [Power BI Desktop](https://powerbi.microsoft.com/desktop).*
 
